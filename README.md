@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
+What about **ME**
 - 🔭 I’m currently working on Geetest
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on Python and Rust
