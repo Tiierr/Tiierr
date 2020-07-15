@@ -1,6 +1,4 @@
-### Hi there 👋
-
-What about **ME**
+### What about ME
 - 🔭 I’m currently working on Geetest
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on Python and Rust
