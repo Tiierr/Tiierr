@@ -1,5 +1,4 @@
 ### What about ME
-- 🔭 I’m currently working on Geetest、
 - 🌱 I’m currently learning Rust.
 - 💬 Ask me about Anything!
 - ⚡ Fun fact: Boring!
